@@ -1,20 +1,20 @@
 const Orders = [
     {
-        productName: 'JavaScript Tutorial',
-        productNumber: '85743',
-        paymentStatus: 'Due',
-        status: 'Pending'
+        productName: 'luna',
+        productNumber: '100',
+        paymentStatus: 'sudah',
+        status: 'Active'
     },
     {
-        productName: 'CSS Full Course',
-        productNumber: '97245',
-        paymentStatus: 'Refunded',
-        status: 'Declined'
+        productName: 'faren',
+        productNumber: '50',
+        paymentStatus: 'sudah',
+        status: 'Active'
     },
     {
-        productName: 'Flex-Box Tutorial',
-        productNumber: '36452',
-        paymentStatus: 'Paid',
+        productName: 'ardani',
+        productNumber: '50',
+        paymentStatus: 'sudah',
         status: 'Active'
     },
 ]
